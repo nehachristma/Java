@@ -1,6 +1,9 @@
 #  Java-Core Programs 
-	**  This repository contains core java programs **
+	 This repository contains core java programs 
 
 
- 
-![java](https://github.com/nehachristma/Java/assets/69244702/bbc7a4c8-214c-4551-9cf1-2c5ef8110fef)
+ ![j](https://github.com/nehachristma/Java/assets/69244702/e02be0c4-ef2e-4d07-b709-7ab2458f38a0)
+
+
+
+
