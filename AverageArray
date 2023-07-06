@@ -1,0 +1,25 @@
+//Average of array elements
+
+package arraypractise;
+import java.util.Scanner;
+
+
+public class sumArray {
+	public static void main(String[] args) {
+		int sum=0;
+		
+		Scanner sc =new Scanner(System.in);
+		  System.out.println("Enter the size of an array ");
+          int n = sc.nextInt();
+          int A[]= new int[n];
+          
+		for(int i=0;i<A.length;i++) {
+		
+                A[i] = sc.nextInt();
+                sum+=A[i];	
+            }
+		 int avg = sum/n;
+          System.out.println(" "+avg);
+
+	}
+}
